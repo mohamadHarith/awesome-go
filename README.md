@@ -1238,6 +1238,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gobeam/Stringy](https://github.com/gobeam/Stringy) - String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
 * [strutil](https://github.com/ozgio/strutil) - String utilities.
 * [xstrings](https://github.com/huandu/xstrings) - Collection of useful string functions ported from other languages.
+* [fuzzymatch](https://github.com/mohamadHarith/fuzzymatch) - Fuzzy string matching library based on cosine similarity.
 
 ### Uncategorized
 
